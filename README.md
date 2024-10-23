@@ -24,7 +24,7 @@
 
 ### Semester Assignments
 
-- Link to Assignment 1: [**Assignment 1**] (https://github.com/Jaramb00/Korisnicka_sucelja_projekt/tree/b30e88c35b6998962f45da14bca1a1c8782eaf83/project_js/Assignment%2013) <!-- Replace with actual URL -->
+- Link to Assignment 1: [**Assignment 1**](https://github.com/Jaramb00/Korisnicka_sucelja_projekt/tree/main/project_js/Assignment%201) <!-- Replace with actual URL -->
 - Link to Assignment 2: [**Assignment 2**](URL_TO_ASSIGNMENT_2) <!-- Replace with actual URL -->
 - Link to Assignment 3: [**Assignment 3**](URL_TO_ASSIGNMENT_3) <!-- Replace with actual URL -->
 <!-- Add more assignments as necessary -->
